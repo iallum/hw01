@@ -4,8 +4,10 @@ output:
   pdf_document: default
 ---
 
-### Self-Introduction   
-![](images/profile pic.png)  
+### Self-Introduction  
+
+![](images/profile_pic.png)  
+
 Hi! My name is **Izzy Allum**, and I am a first year at the University of Chicago. I'm from Washington, DC, so that's where I've been spending quaratine. My hobbies include:  
 
 * fencing (I'm on the club team at UChicago)
